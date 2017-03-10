@@ -21,6 +21,6 @@ public class Cereal extends Food
     }
     
     public String toString(){
-        return "Cereal";
+        return "I'm cereal with quantity " + quantity;
     }
 }

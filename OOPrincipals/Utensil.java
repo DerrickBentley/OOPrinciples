@@ -22,7 +22,7 @@ public class Utensil
     {
         cleanliness = 100;
         originalCleanliness = 100;
-        usefulness = 5;
+        usefulness = 10;
         type = utensilType.STAB;
     }
     
@@ -38,6 +38,7 @@ public class Utensil
     
     public int useOnFood(Food food){
         System.out.println(this.toString());
+        this.cleanliness -= food.type.messiness();
         return food.quantity -= this.usefulness;
     }
     
@@ -46,7 +47,7 @@ public class Utensil
     }
    
     public String toString(){
-        return "generic utensil";
+        return "im a utensil with " + cleanliness + " cleanliness";
     }
 
 }

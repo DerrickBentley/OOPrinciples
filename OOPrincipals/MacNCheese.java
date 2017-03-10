@@ -19,6 +19,6 @@ public class MacNCheese extends Food
     }
     
     public String toString(){
-        return "Mac and Cheese";
+        return "I'm Mac N Cheese with quantity " + quantity;
     }
 }

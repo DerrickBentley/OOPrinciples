@@ -21,6 +21,6 @@ public class Fork extends Utensil
     }
     
     public String toString(){
-        return "Fork";
+        return "I'm a fork with " + this.cleanliness + " cleanliness";
     }
 }

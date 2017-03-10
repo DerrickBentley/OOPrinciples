@@ -18,6 +18,6 @@ public class Spoon extends Utensil
     }
 
     public String toString(){
-        return "Spoon";
+        return "I'm a spoon with " + this.cleanliness + " cleanliness";
     }
 }

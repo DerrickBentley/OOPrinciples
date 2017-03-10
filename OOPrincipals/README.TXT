@@ -1,12 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
 PROJECT TITLE: OOPrinciples 
-PURPOSE OF PROJECT: To implement some design patterns and such
+PURPOSE OF PROJECT: To implement some design patterns and object oriented principles
 VERSION or DATE:
 HOW TO START THIS PROJECT:
 AUTHORS:
 USER INSTRUCTIONS:
+
+I wrote it in BlueJ to help teach a friend. my condolences Git Repo for the files

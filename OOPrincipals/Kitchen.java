@@ -29,4 +29,24 @@ public class Kitchen
         this.fridge = fridge;
     }
     
+    /**
+     * so polymorphic
+     */
+    public void washDishes(){
+        for(Utensil thing : drawer) {
+            System.out.println(thing.toString());
+            thing.clean();
+            System.out.println("After cleaning " + thing.toString());
+        }
+    }
+    
+    public void reportKitchenStatus(){
+        for(Utensil thing: drawer){
+            System.out.println(thing.toString());
+        }
+        
+        for(Food editable: fridge){
+            System.out.println(editable.toString());
+        }
+    }
 }

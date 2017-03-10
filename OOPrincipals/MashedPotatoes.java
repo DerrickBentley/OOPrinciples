@@ -18,6 +18,6 @@ public class MashedPotatoes extends Food
     }
     
     public String toString(){
-        return "Mashed Potatoes";
+        return "Im Mashed Potatoes with quantity " + quantity;
     }
 }

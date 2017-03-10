@@ -7,5 +7,15 @@
  */
 public enum foodType
 {
-    SOUPY, MUSHY, SOLID
+    SOUPY(5), MUSHY(10), SOLID(15);
+    
+    private int messy;
+    
+    foodType(int messy){
+        this.messy = messy;
+    }
+    
+    public int messiness(){
+        return messy;
+    }
 }

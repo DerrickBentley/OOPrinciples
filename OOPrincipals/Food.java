@@ -26,6 +26,6 @@ public class Food
     }
     
     public String toString(){
-        return "generic food";
+        return "I'm food with quantity " + quantity;
     }
 }

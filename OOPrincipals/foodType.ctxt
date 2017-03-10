@@ -1,4 +1,8 @@
 #BlueJ class context
 comment0.target=foodType
 comment0.text=\r\n\ Enumeration\ class\ foodType\ -\ food\ is\ either\ soupy,\ mushy,\ or\ solid\r\n\r\n\ @author\ Derrick\ Bentley\r\n\ @version\ 1.0\r\n
-numComments=1
+comment1.params=messy
+comment1.target=foodType(int)
+comment2.params=
+comment2.target=int\ messiness()
+numComments=3
