@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Food
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ food\ here.\r\n\r\n\ @author\ Derrick\ Bentley\r\n\ @version\ 03/09/2017\r\n
+comment1.params=
+comment1.target=Food()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ food\r\n
+comment2.params=quantity\ type
+comment2.target=Food(int,\ foodType)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

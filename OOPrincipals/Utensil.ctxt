@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Utensil
+comment0.text=\r\n\ Class\ utensil\ -\ Utensils\ perform\ two\ primary\ uses.\ \r\n\ Decrementing\ food\ until\ dirty,\ and\ being\ cleaned.\r\n\r\n\ @author\ Derrick\ Bentley\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Utensil()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ utensil\r\n
+comment2.params=usefulness\ cleanliness\ type
+comment2.target=Utensil(int,\ int,\ utensilType)
+comment2.text=\r\n\ constructor\ to\ set\ properties\r\n
+comment3.params=food
+comment3.target=int\ useOnFood(Food)
+comment4.params=
+comment4.target=void\ clean()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

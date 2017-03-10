@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Spoon
+comment0.text=\r\n\ Basic\ Spoon\ class,\ is\ a\ scoopy\ utensil\r\n\r\n\ @author\ Derrick\ Bentley\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Spoon()
+comment2.params=usefulness\ cleanliness
+comment2.target=Spoon(int,\ int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

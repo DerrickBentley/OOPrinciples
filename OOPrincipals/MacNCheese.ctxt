@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=MacNCheese
+comment0.text=\r\n\ Mac\ N\ Cheese\ is\ a\ solid\ food.\r\n\r\n\ @author\ Derrick\ Bentley\r\n\ @version\ 03/09/2017\r\n
+comment1.params=
+comment1.target=MacNCheese()
+comment2.params=quantity
+comment2.target=MacNCheese(int)
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

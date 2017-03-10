@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Person
+comment0.text=\r\n\ People\ use\ tools\ and\ eat\ things\r\n\r\n\ @author\ Derrick\ Bentley\r\n\ @version\ 03/09/2017\r\n
+comment1.params=
+comment1.target=Person()
+comment2.params=fullness
+comment2.target=Person(int)
+numComments=3
